@@ -17,7 +17,7 @@ img,
   overflow: hidden;
 }
 body {
-  background-color: #fdedee;
+  background-color: #ffc091;
 }
 body {
   font-family: Inter Tight;
@@ -1384,11 +1384,12 @@ a {
 .cid-u7Usc3zJtj .mbr-text,
 .cid-u7Usc3zJtj .mbr-section-btn {
   text-align: center;
+  color: #ffeb69;
 }
 .cid-u7Usc3zL44 {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-color: transparent;
+  background-color: #edcbcb;
 }
 .cid-u7Usc3zL44 img,
 .cid-u7Usc3zL44 .item-img {
@@ -1441,10 +1442,11 @@ a {
   margin-top: auto;
 }
 .cid-u7Usc3zL44 .mbr-section-title {
-  color: #000000;
+  color: #0c2c68;
 }
 .cid-u7Usc3zL44 .item-title {
   text-align: left;
+  color: #0c2c68;
 }
 .cid-u7Usc3zL44 .item-subtitle {
   text-align: left;
@@ -1557,7 +1559,7 @@ a {
 .cid-u7Usc3Bw9D {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-color: #ffffff;
+  background-color: #bcef9b;
 }
 .cid-u7Usc3Bw9D .item-wrapper img {
   width: 80px;
@@ -1593,7 +1595,7 @@ a {
 .cid-u7Usc3BzCP {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-color: transparent;
+  background-color: #edefeb;
 }
 .cid-u7Usc3BzCP .mbr-iconfont {
   font-size: 1.2rem !important;
@@ -2234,7 +2236,7 @@ a {
 .cid-u7Usc3FFVw {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: transparent;
+  background-color: #dfe1dd;
 }
 .cid-u7Usc3FFVw .mbr-fallback-image.disabled {
   display: none;
